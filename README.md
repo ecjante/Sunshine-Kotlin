@@ -1,6 +1,6 @@
 Sunshine Application Project
 
-From Udacity Course: Developing Android Apps
+From Udacity Course: Developing Android Apps by Google
 
 Changes and updates/improvements:
 
